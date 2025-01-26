@@ -1,6 +1,6 @@
 # guess-the-num
 
-Guess The Number
+Good at guessing? Guess The Number!
 
 a fun number guessing game made with python that can be run in your terminal by following the mentioned steps!
 a random number is generated and you're given ten chances to guess that number! hints like "too low" or "too high" are also provided to help you along the way.
